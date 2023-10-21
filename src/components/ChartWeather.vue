@@ -19,7 +19,7 @@ export default defineComponent({
         datasets: [
           {
             label: "Температура (°C)",
-            data: chartData.temps,
+            data: chartData?.temps,
             borderColor: "rgba(75, 192, 192, 1)",
             borderWidth: 1,
           },
