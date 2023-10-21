@@ -70,8 +70,8 @@ export const weatherModule = {
     },
     getters: {
         filterCitiesWeather(state) {
-            return state.weatherCityDays.filter((item) => {
-                return item.cityName.toLowerCase().includes(state.searchCityName.toLowerCase());
+            return state.weatherCityDays?.filter((item) => {
+                return item?.cityName?.toLowerCase().includes(state?.searchCityName?.toLowerCase());
             });
         },
     },
