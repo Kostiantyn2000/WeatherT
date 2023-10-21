@@ -1,0 +1,14 @@
+{
+    "create-favorite": "Add new city with weather",
+    "lang-btn": "Change the language",
+    "delete-btn":"Block removed",
+    "block-to-favorites":"Block added to favorites",
+    "maximum-favorites": "To add, delete the city maximum cities in favorites",
+    "favorite": "Favorite",
+    "back":  "Back",
+    "weather-day": "Weather for the day",
+    "weather-days": "Weather for 5 days",
+    "delete": "Delete",
+    "add-favorite": "Add in favorite",
+    "temp": "Temperature"
+}
