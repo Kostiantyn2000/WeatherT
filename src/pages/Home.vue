@@ -70,6 +70,7 @@ export default {
     },
     mounted() {
         this.getUserLocation()
+        this.getWeatherCityDays()
     },
 
     watch: {
